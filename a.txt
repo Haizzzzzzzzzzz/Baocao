@@ -1,0 +1,282 @@
+
+id_sp (id của sản phẩm)
+id_dm (id danh mục sản phẩm bao gồm (Iphone, samsung, Ipad, xiaomi, Oppo))
+ten_sp (tên các sản phẩm)
+anh_sp (ảnh của các sản phẩm)
+gia_sp	(Giá của các sản phẩm)
+bao_hanh (Thời gian bảo hành)
+phu_kien (Phụ kiện đi kèm khi mua)
+tinh_trang (Tình trạng máy (máy mới: real hoặc máy cũ))
+khuyen_mai (khuyễn mãi của chương trình, "------" là không có khuyến mãi)
+trang_thai (trạng thái của máy là còn hàng hay không)
+dac_biet (có phải là sản phẩm đặc biêt mới ra mắt không, 1 là có và 0 là không)
+chi_tiet_sp	(thông tin chi tiết của sản phẩm đó thêm thị trường)
+	
+ 
+52
+1
+Galaxy-S22 (Black)
+Galaxy-S22-Black-600x600.jpg
+100000
+3 ngày
+Sạc pin, tai nghe
+Real
+voucher - 8%
+Còn hàng
+0
+<ul>
+	<li>
+	<p>Pin: Galaxy S22 được trang bị pin...
+	
+ 
+53
+1
+Galaxy-S22 (Green)
+Galaxy-S22-Green-600x600.jpg
+110000
+7 ngày
+Full box, dây sạc, tai nghe
+Real
+voucher - 10%
+Còn hàng
+0
+<ul>
+	<li>
+	<p>K&iacute;ch thước m&agrave;n h&ig...
+	
+ 
+54
+1
+SamSung Galaxy - S21 (Vàng)
+Samsung-Galaxy-S21-FE-vang-600x600.jpg
+90000
+7 ngày
+Full box, dây sạc, tai nghe, phiếu bảo hành 1 năm
+Real
+------
+Còn hàng
+0
+	
+ 
+55
+1
+SamSung Galaxy - A73 (Xanh)
+samsung-galaxy-a73-5g-xanh-thumb-600x600.jpg
+200000
+7 ngày
+Full box, dây sạc, tai nghe, phiếu bảo hành 1 năm
+Real
+voucher - 8%
+Còn hàng
+0
+<p>K&iacute;ch thước m&agrave;n h&igrave;nh: Galax...
+	
+ 
+56
+1
+SamSung Galaxy - M53 (Nâu)
+samsung-galaxy-m53-nau-thumb-600x600.jpg
+180000
+7 ngày
+Full box, dây sạc, tai nghe, phiếu bảo hành 1 năm
+Real
+voucher - 8%
+Còn hàng
+0
+<p>K&iacute;ch thước m&agrave;n h&igrave;nh: Galax...
+	
+ 
+57
+1
+SamSung Z-Fold2 
+003_Z-Fold2-Combo-GalleryImage-MO-img80.webp
+300000
+7 ngày
+Full box, dây sạc, tai nghe, phiếu bảo hành 1 năm
+Real
+voucher - 10%
+Còn hàng
+1
+<p>K&iacute;ch thước m&agrave;n h&igrave;nh: SamSu...
+	
+ 
+58
+1
+SamSung Z-Flip (Xanh)
+samsung-galaxy-z-flip4-5g-512gb-thumb-xanh-600x600...
+250000
+7 ngày
+Full box, dây sạc, tai nghe, phiếu bảo hành 1 năm
+Real
+voucher - 8%
+Còn hàng
+1
+<p>K&iacute;ch thước m&agrave;n h&igrave;nh: SamSu...
+	
+ 
+59
+16
+IPhone 11 (Black)
+iphone-11-black-1-1-2-650x650.png
+150000
+7 ngày
+Full box, dây sạc, tai nghe, phiếu bảo hành 1 năm
+Real
+------
+Còn hàng
+0
+<p>K&iacute;ch thước m&agrave;n h&igrave;nh: IPhon...
+	
+ 
+60
+16
+IPhone 14 - PLus (Red)
+iphone-14-plus-red-thumb-1-650x650.png
+350000
+7 ngày
+Full box, dây sạc, tai nghe, phiếu bảo hành 1 năm
+Real
+voucher - 10%
+Còn hàng
+1
+<p>K&iacute;ch thước m&agrave;n h&igrave;nh: IPhon...
+	
+ 
+61
+16
+IPhone 14 - Pro (Gold)
+iphone-14-pro-gold-thumb-1-650x650.png
+400000
+7 ngày
+Full box, dây sạc, tai nghe, phiếu bảo hành 1 năm
+Real
+voucher - 8%
+Còn hàng
+1
+<p>K&iacute;ch thước m&agrave;n h&igrave;nh: IPhon...
+	
+ 
+63
+16
+iPhone 11 (Black)
+iphone-11-black-1-1-2-650x650.png
+120000
+7 ngày
+Full box, dây sạc, tai nghe
+Cũ
+------
+Còn hàng
+0
+<p>K&iacute;ch thước m&agrave;n h&igrave;nh: iPhon...
+	
+ 
+64
+20
+Xiaomi 13 
+xiaomi-13-5g_main_322_1020.png.webp
+220000
+7 ngày
+Full box, dây sạc, tai nghe, phiếu bảo hành 1 năm
+Real
+voucher - 8%
+Còn hàng
+0
+<p>K&iacute;ch thước m&agrave;n h&igrave;nh: Xiaom...
+	
+ 
+67
+19
+Oppo reno 8
+oppo-reno8t-vang1-thumb-600x600.jpg
+250000
+7 ngày
+Full box, dây sạc, tai nghe, phiếu bảo hành 1 năm
+Real
+voucher - 8%
+Còn hàng
+0
+<p>K&iacute;ch thước m&agrave;n h&igrave;nh: Oppo ...
+	
+ 
+68
+23
+Ốp điện thoại silicon
+op-lung-flipcover-16-800x450.webp
+1000
+7 ngày
+Full box
+Real
+------
+Còn hàng
+0
+Ốp đẹp ốp xinh
+	
+ 
+69
+21
+Ipad Gen 10 (Sliver)
+iPad-gen-10-5G-sliver-thumb-650x650.png
+150000
+7 ngày
+Full box, dây sạc, tai nghe, phiếu bảo hành 1 năm
+Real
+voucher - 8%
+Còn hàng
+0
+<p>K&iacute;ch thước m&agrave;n h&igrave;nh: Ipad ...
+	
+ 
+71
+20
+Điện thoại chất
+tải xuống.jpg
+50000
+7 ngày
+Full box
+Cũ
+------
+Còn hàng
+0
+Điện thoại vẫn dùng tốt ( 90% )
+	
+ 
+72
+21
+IPad pro max
+5B364447-CBB5-494E-8053-06ACBE006ED2.png
+175000
+7 ngày
+Full box, tai nghe
+Real
+voucher - 10%
+Còn hàng
+0
+<p>K&iacute;ch thước m&agrave;n h&igrave;nh: IPad ...
+	
+ 
+73
+21
+IPad pro 11
+636827999346152175_ipad-pro-11-wi-fi-xam-1_fb06757...
+200000
+14 ngày
+Full box, tai nghe
+Real
+------
+Còn hàng
+0
+<p>K&iacute;ch thước m&agrave;n h&igrave;nh: IPad ...
+	
+ 
+74
+21
+IPad 9 Wifi (White)
+iPad-9-wifi-trang-600x600.jpg
+120000
+7 ngày
+ốp lưng
+Real
+Kính cường lực 3 lớp
+Còn hàng
+0
+<p>Đẹp cực</p>

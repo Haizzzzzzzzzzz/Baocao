@@ -1,0 +1,28 @@
+test momo:
+NGUYEN VAN A
+9704 0000 0000 0018
+03/07
+OTP
+
+page_layout=hoanthanh
+&partnerCode=MOMOBKUN20180529
+&orderId=1714757381
+&requestId=1714757381
+&amount=600000
+&orderInfo=Thanh+toán+qua+MoMo
+&orderType=momo_wallet
+&transId=4033493151
+&resultCode=0
+&message=Successful.
+&payType=napas&responseTime=1714757472615
+&extraData=
+&signature=b7e1108340eb555bef4e013e3afe069ae829ef79a711b76e138508c11ea33ace&paymentOption=momo
+
+test vnpay:
+(vnp_TmnCode): CGXZLS0Z
+(vnp_HashSecret): XNBCJFAKAZQSGTARRLGCHVZWCIOIGSHN
+Ngân hàng: NCB
+Số thẻ: 9704198526191432198
+Tên chủ thẻ:NGUYEN VAN A
+Ngày phát hành:07/15
+Mật khẩu OTP:123456
